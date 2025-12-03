@@ -1,0 +1,5 @@
+{
+  "name": "GeminiMarket",
+  "description": "An AI-powered stock market dashboard that uses Gemini Search Grounding to provide real-time pricing, news analysis, and market insights.",
+  "requestFramePermissions": []
+}
