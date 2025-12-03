@@ -11,8 +11,8 @@ if (!rootElement) {
 const root = ReactDOM.createRoot(rootElement);
 
 // NOTE: Ensure these environment variables are set, or replace them with your actual Auth0 values.
-const domain = process.env.AUTH0_DOMAIN || "placeholder-domain.us.auth0.com";
-const clientId = process.env.AUTH0_CLIENT_ID || "placeholder-client-id";
+const domain = process.env.AUTH0_DOMAIN || "dev-bq7gz711v1twje4y.us.auth0.com";
+const clientId = process.env.AUTH0_CLIENT_ID || "kUdPoqvYjIDxZJ4ABl8zyYTC1N3kTkyA";
 
 root.render(
   <React.StrictMode>
